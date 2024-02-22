@@ -1,0 +1,9 @@
+"Player 1"
+health: 20
+curse_energy: 100
+"Player 2"
+health: 15
+curse_energy: 80
+"Player 3"
+health: 25
+curse_energy: 150
